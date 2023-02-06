@@ -6,6 +6,12 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
+.navbar{
+	width: 100%;
+}
+.navbar-nav{
+	margin-left: auto;
+}
 .top-header {
 	background-color: white;
 	position: sticky;
