@@ -75,8 +75,9 @@ body {
 
 .picture img {
 	
-		width: 100%; /* or max-width: 100%; */
-		height: auto;
+	aspect-ratio: 16 / 9;
+	width: 100%;
+	object-fit: cover;
 	 
 }
 #about-me {
